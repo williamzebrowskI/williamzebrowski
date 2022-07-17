@@ -1,8 +1,10 @@
 ## Who I am  👨‍💻
 
+ * I'm a Software QA Analyst with 2 years experience.
+ 
  * I have a strong passion in testing and creating automation test scripts in Python & Javascript.
  
- * I enjoy...
+ * Accumulated over 14 Python Certificates.
  
  ## I’m currently learning  🌱
  
