@@ -12,8 +12,6 @@
  
  * Cypress & Selenium Webdriver
  
- * More about the CI/CD process
- 
  
 <!--
 **williamzebrowskI/williamzebrowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
