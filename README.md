@@ -2,7 +2,7 @@
 
 ### 🚀 About me 
 
- My name is William and I am a **Quality Assurance Engineer** (specializing in **Test Automation**) with 2 years of QA experience.  I thoroughly enjoy using Python to create automation (big or small!).  I have accumlated over 15 Python Certificates.
+ My name is William and I'm a **Automation Engineer** (specializing in **Test Automation**) with 3 years of QA experience.  I thoroughly enjoy using Python to create automation (big or small!).  I have accumlated over 19 Python Certificates.
  
 ## 👨‍💻 Technical Skills
 ### Languages
@@ -21,13 +21,8 @@ height="40"/>&nbsp;
 
 
  
- * Pandas, Selenium-Webdriver, Pytest, Scrapy, NLTK, Locust, Openpyxl, Beautiful Soup, API Testing.
+ * Playwright, Pandas, Selenium-Webdriver, Pytest, Numpy Scrapy, NLTK, Locust, Openpyxl, Beautiful Soup, API Testing and more.
  
- * Tools:  Postman, Cypress, Locust
- 
- ### 📚 What I'm currently learning
- 
- Recently completed **Computer Science w/ Python** course at **Harvard**.
  
  <div id="badges">
   <a href="https://www.linkedin.com/in/williamzebrowski/">
