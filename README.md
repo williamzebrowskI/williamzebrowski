@@ -2,7 +2,7 @@
 
 ### 🚀 About me 
 
- My name is William and I'm a **Automation Engineer** (specializing in **Test Automation**) with 3 years of QA experience.  I thoroughly enjoy using Python to create automation (big or small!).  I have accumlated over 19 Python Certificates.
+ My name is William and I'm a **Automation Engineer** (specializing in **Test Automation**) with 3 years of QA experience.  I thoroughly enjoy using Python to create automation (big or small!).  I have accumlated over 25+ Python Certificates.
  
 ## 👨‍💻 Technical Skills
 ### Languages
