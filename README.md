@@ -2,26 +2,39 @@
 
 ### 🚀 About me 
 
- My name is William and I'm a **Automation Engineer** (specializing in **Test Automation**) with 3 years of QA experience.  I thoroughly enjoy using Python to create automation (big or small!).  I have accumlated over 25+ Python Certificates.
- 
-## 👨‍💻 Technical Skills
+My name is William, and I'm an **AI Engineer** with a deep passion for **AI and LLMs**. I specialize in developing and fine-tuning AI models and creating innovative solutions that leverage the power of artificial intelligence.
+
+## 💡 What I'm Passionate About
+
+### Generative AI Development:
+- Building and managing Generative AI Assistants using Large Language Models (LLMs).
+- Developing fully connected backend systems to support real-time responses and integrating data storage for conversational data.
+- Creating and refining ML/Neural Network NLP frameworks for Conversational AI.
+- Fine-tuning LLMs on domain-specific data to enhance their performance and accuracy.
+
+### Model Development:
+- Building custom NLP frameworks using neural net modeling for specialized applications.
+- Developing machine learning and neural network models tailored to specific domains.
+- Fine-tuning models using techniques like transfer learning, hyperparameter optimization, and data augmentation.
+- Implementing continuous improvement strategies for models through feedback loops and iterative training.
+
+### LLM AI Agents:
+- Developing and maintaining AI Agent systems to keep AI Assistants updated with the latest content.
+- Ensuring AI Assistants remain current with domain-specific knowledge, enhancing the accuracy and relevance of their responses.
+
+### Research & Development:
+- Exploring and integrating the latest emerging technologies in AI, focusing on Generative AI, Machine Learning, Deep Learning, and Reinforcement Learning.
+- Utilizing advanced techniques such as Prompt Engineering, Language Modeling, and Intelligent Automation to create cutting-edge AI solutions.
+
+### Collaboration:
+- Working with cross-functional teams to implement AI-driven solutions for real-world applications.
+- Sharing knowledge and advancing the field of AI by contributing to the development of new theories and methods.
+
 ### Languages
  <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" 
-height="40"/>&nbsp;
-      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/swift/swift-original.svg" title="swift" alt="swift" width="40" height="40"/>&nbsp;
-      
-### Frameworks
-   <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" title="pytest" alt="pytest" width="40" 
-height="40"/>&nbsp;
-   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/selenium/selenium-original.svg" title="selenium" alt="selenium" width="40" height="40"/>&nbsp;
-   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mocha/mocha-plain.svg" title="mocha" alt="mocha" width="40" height="40"/>&nbsp;
  <div>
 
-
- 
- * Playwright, Pandas, Selenium-Webdriver, Pytest, Numpy Scrapy, NLTK, Locust, Openpyxl, Beautiful Soup, API Testing and more.
  
  
  <div id="badges">
@@ -31,11 +44,3 @@ height="40"/>&nbsp;
  
  ![](https://komarev.com/ghpvc/?username=williamzebrowski)
  
-<!--
-**williamzebrowskI/williamzebrowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-- 🤝 I’m looking to collaborate on indivisuals w/
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- ⚡ Fun fact: ...
--->
