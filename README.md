@@ -1,6 +1,6 @@
 
 
- ![William Zebrowski's GitHub stats](https://github-readme-stats.vercel.app/api?username=williamzebrowski&show_icons=true&include_all_commits=true&theme=radical)
+ ![William Zebrowski's GitHub stats](https://github-readme-stats.vercel.app/api?username=williamzebrowski&show_icons=true&include_all_commits=true&show="prs-merge,reviews"&theme=radical)
 
 
  
