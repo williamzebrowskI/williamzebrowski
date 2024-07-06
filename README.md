@@ -1,10 +1,7 @@
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=williamzebrowski)](https://github.com/williamzebrowski/github-readme-stats)
 
-### Languages
  <div>
-
- ![William Zebrowski's GitHub stats](https://github-readme-stats.vercel.app/api?username=williamzebrowski&show_icons=true&theme=radical)
+ ![William Zebrowski's GitHub stats](https://github-readme-stats.vercel.app/api?username=williamzebrowski&show_icons=true&theme=synthwave)
  <div>
 
  
