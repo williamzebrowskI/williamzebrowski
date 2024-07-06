@@ -3,7 +3,8 @@
 
 ### Languages
  <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+
+ ![William Zebrowski's GitHub stats](https://github-readme-stats.vercel.app/api?username=williamzebrowski&show_icons=true&theme=radical)
  <div>
 
  
