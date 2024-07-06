@@ -1,8 +1,5 @@
-## Hi There! 👋
 
-### 🚀 About me 
-
-My name is William, and I'm an **AI Engineer** with a deep passion for **AI and LLMs**. I specialize in developing and fine-tuning AI models and creating innovative solutions that leverage the power of artificial intelligence.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages
  <div>
