@@ -3,7 +3,7 @@ f<div align="center">
 <hr>
   <h2>Hey there 👋</h2>
   <p align="center">
-    I'm Bill My focus lies in advancing AI research and development.<br/><br/>
+    I'm Bill and my focus lies in advancing AI research and development.<br/><br/>
     🔭 &nbsp; Currently working on <b>building llms</b><br/>
     🌱 &nbsp; Improving on <b>MLX</b> and <b>PyTorch</b><br/>
     💬 &nbsp; Happy to help!
