@@ -1,5 +1,5 @@
 f<div align="center">
-<p><a href="https://huggingface.co/williamzebrowski"><img src="https://img.shields.io/badge/%F0%9F%A4%97-williamzebrowski-grey" alt="Huggingface-Badge"></a> <a href="https://x.com/wtzebrowski"><img src="https://img.shields.io/badge/-wtzebrowski%5-grey?logo=x" alt="Twitter-Badge"></a> <img src="https://komarev.com/ghpvc/?username=williamzebrowski&amp;color=grey" alt="Profile-Views-Count-Badge"> <a href="https://www.linkedin.com/in/williamzebrowski/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a></p>
+<p><a href="https://huggingface.co/williamzebrowski"><img src="https://img.shields.io/badge/%F0%9F%A4%97-williamzebrowski-grey" alt="Huggingface-Badge"></a> <a href="https://x.com/wtzebrowski"><img src="https://img.shields.io/badge/-wtzebrowski%5F-grey?logo=x" alt="Twitter-Badge"></a> <img src="https://komarev.com/ghpvc/?username=williamzebrowski&amp;color=grey" alt="Profile-Views-Count-Badge"> <a href="https://www.linkedin.com/in/williamzebrowski/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a></p>
 <hr>
   <h2>Hey there 👋</h2>
   <p align="center">
