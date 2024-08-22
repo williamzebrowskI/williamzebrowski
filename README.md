@@ -5,7 +5,7 @@
   <p align="center">
     I'm Bill and my focus lies in advancing AI research and development.<br/><br/>
     🔭 &nbsp; Currently working on <b>building llms</b><br/>
-    🌱 &nbsp; Improving on <b>MLX</b> and <b>PyTorch</b><br/>
+    🌱 &nbsp; Improving on <b>MLX</b>, <b>PyTorch</b> and <b>Transformers</b><br/>
     💬 &nbsp; Happy to help!
   </p>
 <hr>
