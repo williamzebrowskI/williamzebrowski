@@ -1,8 +1,7 @@
 <div align="center">
   
   ### Hey there 👋, I'm William Zebrowski
-  
-  [![William's GitHub stats](https://github-readme-stats.vercel.app/api?username=williamzebrowski&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  ![William's GitHub stats](https://github-readme-stats.vercel.app/api?username=williamzebrowski&show_icons=true&include_all_commits=true&count_private=true&show=prs&theme=radical)
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williamzebrowski&layout=compact&hide_border=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
   
