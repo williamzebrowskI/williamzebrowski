@@ -1,6 +1,6 @@
 <div align="center">
   
-  ### Hey there 👋, I'm William Zebrowski
+  ### Hey there 👋  I'm Bill!
   
   ![Williams's GitHub stats](https://github-readme-stats.vercel.app/api?username=williamzebrowskI&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
   
