@@ -1,7 +1,5 @@
 <div align="center">
   
-  ### Hey there 👋  I'm Bill!
-  
   ![Williams's GitHub stats](https://github-readme-stats.vercel.app/api?username=williamzebrowskI&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williamzebrowski&layout=compact&hide_border=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
